@@ -145,6 +145,7 @@ gradle-app.setting
 *.hprof
 
 # VSCODE
+.vscode
 .vscode/*
 */.vscode/
 
